@@ -31,3 +31,7 @@ go.work.sum
 .idea/
 # .vscode/
 .DS_Store
+
+# nginx
+deploy/tls/cert.pem
+deploy/tls/key.pem
